@@ -25,7 +25,7 @@ Un selector CSS es una parte del lenguaje CSS que le indica al back-end a qué e
 El código HTML del cuadro de búsqueda de [duckduckgo.com](http://duckduckgo.com/) tiene este aspecto:
 
 
-<input id="search_form_input_homepage" class="js-search-input search__input--adv" type="text" autocomplete="off" name="q" tabindex="1" value="" autocapitalize="off" autocorrect="off" placeholder="Online search without tracking">
+"<input id="search_form_input_homepage" class="js-search-input search__input--adv" type="text" autocomplete="off" name="q" tabindex="1" value="" autocapitalize="off" autocorrect="off" placeholder="Online search without tracking">"
 
 Observa que el código del elemento contiene id y class: estos selectores serán de utilidad más adelante.
 
